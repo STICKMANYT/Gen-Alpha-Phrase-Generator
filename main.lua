@@ -1,5 +1,4 @@
-local capitalized = true -- Changes if the first word is capitalized
--- I added this during animating the video.
+local capitalized = true -- Changes if the first word is capitalized.
 local list = {"gyatt ","sigma ","ohio ","kai cenat ","rizz ","fanum tax ","skibidi "} -- List of words that can be used in output
 
 
