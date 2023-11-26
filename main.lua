@@ -1,5 +1,6 @@
-local capitalized = true -- Changes if the first word is capitalized
+local capitalized = true -- Changes if the first word is capitalized.
 local length = 10 -- How long the sentence should be
+local list = {"gyatt ","sigma ","ohio ","kai cenat ","rizz ","fanum tax ","skibidi "} -- List of words that can be used in output
 
 local list = { 
     "gyatt ", "sigma ", "ohio ",
