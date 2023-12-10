@@ -1,3 +1,5 @@
+-- I'm not gonna accept pull requests that change the code itself, but I will accept them if it adds more words to "list"
+
 local capitalized = true -- Changes if the first word is capitalized.
 local list = {"gyatt ","sigma ","ohio ","kai cenat ","rizz ","fanum tax ","skibidi "} -- List of words that can be used in output
 
